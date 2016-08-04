@@ -1,0 +1,32 @@
+_repo: Aladdin-O-Brien_5172
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morris, Gouverneur
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '1721'
+    url: http://www.gutenberg.org/2009/agents/1721
+description: It was on the way home from Sunday-school that Aladdin had enticed Margaret
+  to the forbidden river. She was not sure that he knew how to row, for he was prone
+  to exaggerate his prowess at this and that, and she went because of the fine defiance
+  of it, and because Aladdin exercised an irresistible fascination. He it was who
+  could whistle the most engagingly through his front teeth; and he it was, when sad
+  dogs of boys of the world were met behind the barn, who could blow the smoke of
+  the fragrant grapevine through his nose, and swallow the same without alarm to himself
+  or to his admirers ...
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- GITenberg
+title: Aladdin O'Brien
+url: http://www.gutenberg.org/ebooks/5172
