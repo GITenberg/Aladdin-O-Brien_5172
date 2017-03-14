@@ -1,5 +1,8 @@
 _repo: Aladdin-O-Brien_5172
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morris, Gouverneur
@@ -15,6 +18,8 @@ description: It was on the way home from Sunday-school that Aladdin had enticed 
   dogs of boys of the world were met behind the barn, who could blow the smoke of
   the fragrant grapevine through his nose, and swallow the same without alarm to himself
   or to his admirers ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5172#Aladdin-O-Brien
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
